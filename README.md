@@ -9,6 +9,6 @@ Emerging Technologies
 * activities 4, 5, and 6 were not written in snack.
 
 ## Members (BSCS 3‐4)
-* Singson, Grace Pauline
-* Legaspi, Vincent
-* Villareal, Ralph Samuel
+* Singson, Grace Pauline O.
+* Legaspi, Vincent B.
+* Villareal, Ralph Samuel D.
